@@ -1,192 +1,179 @@
-<div align="center">
+# XYNEXTRIXOR | NEO-BRUTALIST PORTFOLIO
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anmol%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=xynextrixor%20%7C%20DSA%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20Science&descAlignY=55&descSize=16" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=70A5FD&center=true&vCenter=true&width=620&lines=B.Tech+Data+Science+%F0%9F%8E%93;DSA+Grinder+%F0%9F%94%A5;C%2B%2B+%2B+Python+Developer;Logic+clicks+fast+%E2%80%94+speed+is+catching+up+%F0%9F%9A%80)](https://github.com/anmolsin1124)
-
-<p>
-  <a href="https://github.com/anmolsin1124"><img src="https://img.shields.io/badge/GitHub-anmolsin1124-70A5FD?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/singhanmol"><img src="https://img.shields.io/badge/LinkedIn-singhanmol-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anmolsin1124@gmail.com"><img src="https://img.shields.io/badge/Email-anmolsin1124-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=anmolsin1124&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS" />
-</p>
-
-</div>
+> **raw. bold. uncompromised design.** building digital experiences with sharp edges and zero compromise.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+## → ABOUT
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+I'm a **B.Tech Data Science student** obsessed with clean code, bold design, and solving hard problems. This isn't just a portfolio—it's a **manifesto** of my work. Every pixel intentional. Every line of code purposeful.
 
-```cpp
-// anmolsin1124.cpp
+**GitHub:** [@xynextrixor](https://github.com/xynextrixor)  
+**Live:** [https://anmolprofile.vercel.app/](https://anmolprofile.vercel.app/)
 
-#include <iostream>
-#include <vector>
-#include <string>
-using namespace std;
+---
 
-class Developer {
-public:
-    string name      = "Anmol Singh";
-    string alias     = "xynextrixor";
-    string degree    = "B.Tech — Data Science";
-    string goal      = "Top 1% Developer";
+## ◆ GITHUB PRESENCE
 
-    vector<string> currentlyDoing = {
-        "DSA in C++ (core concepts + STL)",
-        "Problem-solving practice daily",
-        "Small Python utilities & Flask basics"
-    };
+```
+📊 STATS LIVE HERE
+└─ Contributions | Repos | Followers | Activity
+```
 
-    vector<string> openTo = {
-        "Beginner DSA projects",
-        "C++ / Python learning collabs",
-        "Simple open-source contributions"
-    };
+🔗 **View Full Profile:** [github.com/xynextrixor](https://github.com/xynextrixor)  
+📁 **All Repositories:** [github.com/xynextrixor?tab=repositories](https://github.com/xynextrixor?tab=repositories)
 
-    vector<string> needHelpWith = {
-        "Optimizing DSA solutions",
-        "Recursion & backtracking tricks",
-        "C++ debugging on Linux"
-    };
+**Notable Projects:**
+- `Yukticanvas` — [View Repository](https://github.com/xynextrixor/Yukticanvas)
+- `SanskaarVault` — [View Repository](https://github.com/xynextrixor/sanskarvault)
+- `Game-Engine` — [View Repository](https://github.com/xynextrixor/Game-engine)
+- `Cricket Match Analyzer` — [View Repository](https://github.com/xynextrixor/cricket-match-analyzer)
 
-    string funFact() {
-        return "Logic clicks fast — coding speed is catching up! 🚀";
-    }
-};
+---
+
+## ◆ TECH STACK
+
+```
+FRONTEND          │ HTML5, CSS3, JavaScript (ES6+)
+STYLING           │ Tailwind CSS, Custom CSS (Neo-Brutalism)
+DESIGN PATTERN    │ Neo-Brutalism, Minimal, Bold, Geometric
+DEPLOYMENT        │ Vercel, GitHub Pages
+TOOLS             │ Git, GitHub, VS Code
 ```
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+## ◆ CORE FEATURES
 
-## ⚔️ Tech Arsenal
-
-<div align="center">
-
-**Core Languages**
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Web & Frameworks**
-
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Data & ML**
-
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Design & Creative**
-
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
-**DevTools**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-</div>
+```
+[━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━]
+│ ✓ Bold Typography & Hard Shadows              │
+│ ✓ Geometric Grid Layout                       │
+│ ✓ Fully Responsive Across All Devices        │
+│ ✓ Dark Theme with Accent Colors              │
+│ ✓ Custom Cursor Interactions                  │
+│ ✓ Smooth Animations & Transitions            │
+│ ✓ GitHub Stats Integration                    │
+│ ✓ Project Showcase with Live Links           │
+│ ✓ Contact & Social Links                      │
+[━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━]
+```
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+## ◆ FOLDER STRUCTURE
 
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🔥 Area | 📈 Progress | 🗒️ What I'm doing |
-|---|---|---|
-| DSA (C++) | `████████████░░░` 75% | Arrays, Strings, Trees, Graphs |
-| Python | `████████░░░░░░░` 55% | Utilities, scripting, Flask basics |
-| Data Science | `██████░░░░░░░░░` 40% | NumPy, Pandas, EDA |
-| Design | `█████████░░░░░░` 60% | Photoshop, Blender, Canva |
-| Open Source | `████░░░░░░░░░░░` 25% | First contributions in progress |
-
-</div>
+```
+portfolio/
+├── index.html              (Main entry point)
+├── style.css              (Global & neo-brutalism styles)
+├── script.js              (Interactive elements)
+├── assets/
+│   ├── images/            (Hero, project images)
+│   ├── icons/             (Remix Icon library)
+│   └── fonts/             (Space Grotesk, JetBrains Mono)
+└── gifs/                  (Animated previews)
+```
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+## ◆ QUICK START
 
-## 📊 GitHub Stats
+```bash
+# Clone repository
+$ git clone https://github.com/xynextrixor/portfolio.git
 
-<div align="center">
+# Navigate to project
+$ cd portfolio
 
-<img src="https://github-readme-stats.vercel.app/api?username=anmolsin1124&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=anmolsin1124&theme=tokyonight&hide_border=true" width="49%" />
+# Open in browser
+$ open index.html
+# or simply double-click the file
+```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsin1124&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="40%" />
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anmolsin1124&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
-
-</div>
+**No build process. No dependencies. Just open and go.**
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+## ◆ COLOR PALETTE (NEO-BRUTALISM)
 
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmolsin1124/anmolsin1124/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmolsin1124/anmolsin1124/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anmolsin1124/anmolsin1124/output/github-snake.svg" />
-</picture>
-
-</div>
+```css
+--neo-yellow    : #FBFF48    /* Primary Accent */
+--neo-pink      : #FF70A6    /* Secondary */
+--neo-blue      : #3B82F6    /* Link Color */
+--neo-green     : #33FF57    /* GitHub/Success */
+--neo-purple    : #A855F7    /* Highlight */
+--neo-orange    : #FF9F1C    /* Warning */
+--neo-red       : #FF2A2A    /* Error */
+--neo-white     : #FFFDF5    /* Light BG */
+--neo-black     : #121212    /* Dark BG */
+```
 
 ---
 
-<div align="center">
+## ◆ DESIGN PHILOSOPHY
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Consistency+%2B+Projects+%3D+Success+%F0%9F%9A%80&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=65" />
+**NEO-BRUTALISM** doesn't mean ugly. It means:
 
-[![](https://visitcount.itsvg.in/api?id=anmolsin1124&icon=6&color=9)](https://visitcount.itsvg.in)
+- **Hard-edged** borders and shadows (no rounded corners)
+- **Bold typography** that demands attention
+- **Geometric layouts** with clear structure
+- **High contrast** for immediate visual hierarchy
+- **Minimal ornamentation** — every element serves a purpose
+- **Raw and honest** design that prioritizes function
 
-</div>
+This portfolio embodies the belief that **constraints breed creativity**.
+
+---
+
+## ◆ FUTURE ROADMAP
+
+```
+[IN PROGRESS]
+├── Enhanced GitHub stats dashboard
+├── Project case studies
+├── Blog section for technical writing
+├── Dark/Light theme toggle
+└── Advanced animations
+
+[PLANNED]
+├── Contact form integration
+├── Newsletter subscription
+└── Dynamic project loader
+```
+
+---
+
+## ◆ GITHUB INTEGRATION
+
+This portfolio pulls live data from GitHub:
+- **Contribution graph** showing activity
+- **Repository statistics** (stars, forks, issues)
+- **Profile metrics** (followers, public repos count)
+- **Direct links** to all repositories
+
+**Update your GitHub stats:** Edit the username in `getGitHubStats()` function within `script.js`
+
+---
+
+## ◆ SUPPORT
+
+```
+Found this useful? Consider:
+  ★ Star the repository
+  🔗 Share your own neo-brutalist portfolio
+  📧 Connect on GitHub: @xynextrixor
+```
+
+---
+
+## ◆ LICENSE
+
+Open source. Use freely. Build boldly.
+
+---
+
+**Crafted with raw HTML, pure CSS, and uncompromising JavaScript.**  
+**No frameworks. No bloat. Just bold design.**
+
+*Last Updated: July 2026*
